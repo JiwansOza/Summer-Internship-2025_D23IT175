@@ -1,4 +1,4 @@
-# 📅 Day 01 - June 10, 2025
+# 📅 Day 01 - June 9, 2025
 
 ## ✅ What I Worked On
 - Received access to the internal repository: [`infowaydevteam/Upreach`](https://github.com/infowaydevteam/Upreach) (branch: `abhi`)
