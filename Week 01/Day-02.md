@@ -1,4 +1,4 @@
-# 📅 Day 02 - June 11, 2025
+# 📅 Day 02 - June 10, 2025
 
 ## ✅ What I Worked On
 - Assigned to implement the **Auto Dialer and Task Automation** feature for the Upreach project.
