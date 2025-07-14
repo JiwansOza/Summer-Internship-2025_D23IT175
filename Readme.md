@@ -29,7 +29,7 @@ Each folder represents a week, and each file logs the daily activities in detail
 
 > 🧠 *This repo is a reflection of my learning journey, commitment, and growth during this internship.*
 
-### 📅 Internship Duration: `June 09, 2025 – [To Be Updated]`  
+### 📅 Internship Duration: `June 09, 2025 – [Ongoing]`  
 ### 🏢 Company: [Infoway Solutions, Vadodara](https://infowaysolutions.com)
 
 ---
@@ -90,8 +90,30 @@ Each folder represents a week, and each file logs the daily activities in detail
 | Day | Date       | Summary                                                                |
 |-----|------------|------------------------------------------------------------------------|
 | 22  | 30-06-2025 | Initial setup for Campaign Management (User Story 5.1)                |
+| 23  | 01-07-2025 | Worked on edit campaign setup UI                                       |
+| 24  | 02-07-2025 | Completed phone call integration in campaign                           |
+| 25  | 03-07-2025 | Tested complete campaign setup for demo                                |
+| 26  | 04-07-2025 | Added edit controls based on feedback                                  |
+| 27  | 05-07-2025 | Off Day                                                                 |
+| 28  | 06-07-2025 | Off Day                                                                 |
 
 🔗 [View Week 04 Logs](./week-04/)
+</details>
+
+<details>
+<summary><strong>✅ Week 05</strong> (07 July – 13 July)</summary>
+
+| Day | Date       | Summary                                                                |
+|-----|------------|------------------------------------------------------------------------|
+| 29  | 07-07-2025 | Worked on color palette; faced styling issues                          |
+| 30  | 08-07-2025 | Completed color palette and font settings                              |
+| 31  | 09-07-2025 | Started User Story 6; created basic UI structure                        |
+| 32  | 10-07-2025 | Almost completed Performance Dashboard; faced minor errors             |
+| 33  | 11-07-2025 | Completed Performance Dashboard with final fixes                       |
+| 34  | 12-07-2025 | Off Day                                                                 |
+| 35  | 13-07-2025 | Off Day                                                                 |
+
+🔗 [View Week 05 Logs](./week-05/)
 </details>
 
 ---
@@ -104,7 +126,7 @@ Each folder represents a week, and each file logs the daily activities in detail
 | **Version Control** | Git, GitHub                     |
 | **Deployment/DevOps** | Docker (Basics)              |
 | **Collaboration** | Feature Branching, Code Reviews   |
-| **Other**        | REST APIs, Communication Services  |
+| **Other**        | REST APIs, UI State Management     |
 
 ---
 
