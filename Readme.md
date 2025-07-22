@@ -116,6 +116,21 @@ Each folder represents a week, and each file logs the daily activities in detail
 🔗 [View Week 05 Logs](./week-05/)
 </details>
 
+<details>
+<summary><strong>✅ Week 06</strong> (14 July – 20 July)</summary>
+
+| Day | Date       | Summary                                                                 |
+|-----|------------|-------------------------------------------------------------------------|
+| 36  | 14-07-2025 | Started implementing org_name-wise data separation                      |
+| 37  | 15-07-2025 | Completed auto dialer with org_name and user-level handling             |
+| 38  | 16-07-2025 | Worked on campaign setup; fixed Twilio error; improved UI               |
+| 39  | 17-07-2025 | Setup Twilio account; finalized org_name-based campaign setup           |
+| 40  | 18-07-2025 | Verified campaign setup fully supports org-wise handling                |
+| 41  | 19-07-2025 | Off Day                                                                  |
+| 42  | 20-07-2025 | Off Day                                                                  |
+
+🔗 [View Week 06 Logs](./week-06/)
+</details>
 ---
 
 ## 🧰 Tech Stack & Tools
