@@ -46,8 +46,8 @@ Each folder represents a week, and each file logs the daily activities in detail
 | 03  | 11-06-2025 | Referenced old branch; worked on follow-up tab UI & autodialer logic   |
 | 04  | 12-06-2025 | Add contact + call trigger & follow-up UI                              |
 | 05  | 13-06-2025 | Follow-up templates and call refinement                                |
-| 06  | 14-06-2025 | Off Day                                                                 |
-| 07  | 15-06-2025 | Off Day                                                                 |
+| 06  | 14-06-2025 | Off Day                                                                |
+| 07  | 15-06-2025 | Off Day                                                                |
 
 🔗 [View Week 01 Logs](./week-01/)
 </details>
@@ -62,8 +62,8 @@ Each folder represents a week, and each file logs the daily activities in detail
 | 10  | 18-06-2025 | Follow-up SMS + Docker documentation                                   |
 | 11  | 19-06-2025 | Integrated logs module with team member's code                         |
 | 12  | 20-06-2025 | Refined follow-up SMS content                                          |
-| 13  | 21-06-2025 | Off Day                                                                 |
-| 14  | 22-06-2025 | Off Day                                                                 |
+| 13  | 21-06-2025 | Off Day                                                                |
+| 14  | 22-06-2025 | Off Day                                                                |
 
 🔗 [View Week 02 Logs](./week-02/)
 </details>
@@ -78,8 +78,8 @@ Each folder represents a week, and each file logs the daily activities in detail
 | 17  | 25-06-2025 | Assisted in follow-up scripting for interested leads                   |
 | 18  | 26-06-2025 | Dynamic call script with scheduled message logic                       |
 | 19  | 27-06-2025 | Completed the full communication module                                |
-| 20  | 28-06-2025 | Off Day                                                                 |
-| 21  | 29-06-2025 | Off Day                                                                 |
+| 20  | 28-06-2025 | Off Day                                                                |
+| 21  | 29-06-2025 | Off Day                                                                |
 
 🔗 [View Week 03 Logs](./week-03/)
 </details>
@@ -89,13 +89,13 @@ Each folder represents a week, and each file logs the daily activities in detail
 
 | Day | Date       | Summary                                                                |
 |-----|------------|------------------------------------------------------------------------|
-| 22  | 30-06-2025 | Initial setup for Campaign Management (User Story 5.1)                |
+| 22  | 30-06-2025 | Initial setup for Campaign Management (User Story 5.1)                 |
 | 23  | 01-07-2025 | Worked on edit campaign setup UI                                       |
 | 24  | 02-07-2025 | Completed phone call integration in campaign                           |
 | 25  | 03-07-2025 | Tested complete campaign setup for demo                                |
 | 26  | 04-07-2025 | Added edit controls based on feedback                                  |
-| 27  | 05-07-2025 | Off Day                                                                 |
-| 28  | 06-07-2025 | Off Day                                                                 |
+| 27  | 05-07-2025 | Off Day                                                                |
+| 28  | 06-07-2025 | Off Day                                                                |
 
 🔗 [View Week 04 Logs](./week-04/)
 </details>
@@ -107,11 +107,11 @@ Each folder represents a week, and each file logs the daily activities in detail
 |-----|------------|------------------------------------------------------------------------|
 | 29  | 07-07-2025 | Worked on color palette; faced styling issues                          |
 | 30  | 08-07-2025 | Completed color palette and font settings                              |
-| 31  | 09-07-2025 | Started User Story 6; created basic UI structure                        |
+| 31  | 09-07-2025 | Started User Story 6; created basic UI structure                       |
 | 32  | 10-07-2025 | Almost completed Performance Dashboard; faced minor errors             |
 | 33  | 11-07-2025 | Completed Performance Dashboard with final fixes                       |
-| 34  | 12-07-2025 | Off Day                                                                 |
-| 35  | 13-07-2025 | Off Day                                                                 |
+| 34  | 12-07-2025 | Off Day                                                                |
+| 35  | 13-07-2025 | Off Day                                                                |
 
 🔗 [View Week 05 Logs](./week-05/)
 </details>
@@ -126,11 +126,92 @@ Each folder represents a week, and each file logs the daily activities in detail
 | 38  | 16-07-2025 | Worked on campaign setup; fixed Twilio error; improved UI               |
 | 39  | 17-07-2025 | Setup Twilio account; finalized org_name-based campaign setup           |
 | 40  | 18-07-2025 | Verified campaign setup fully supports org-wise handling                |
-| 41  | 19-07-2025 | Off Day                                                                  |
-| 42  | 20-07-2025 | Off Day                                                                  |
+| 41  | 19-07-2025 | Off Day                                                                |
+| 42  | 20-07-2025 | Off Day                                                                |
 
 🔗 [View Week 06 Logs](./week-06/)
 </details>
+
+<details>
+<summary><strong>✅ Week 07</strong> (21 July – 27 July)</summary>
+
+| Day | Date       | Summary                                                                 |
+|-----|------------|-------------------------------------------------------------------------|
+| 43  | 21-07-2025 | Started working on Guest User implementation                            |
+| 44  | 22-07-2025 | Added restrictions on Autodialer for Guest Users                        |
+| 45  | 23-07-2025 | Restricted email features for Guest Users                               |
+| 46  | 24-07-2025 | Wrapped up restrictions for Guest Users                                 |
+| 47  | 25-07-2025 | Made the app ready for demo                                             |
+| 48  | 26-07-2025 | Off Day                                                                |
+| 49  | 27-07-2025 | Off Day                                                                |
+
+🔗 [View Week 07 Logs](./week-07/)
+</details>
+
+<details>
+<summary><strong>✅ Week 08</strong> (28 July – 03 Aug)</summary>
+
+| Day | Date       | Summary                                                                 |
+|-----|------------|-------------------------------------------------------------------------|
+| 50  | 28-07-2025 | Started refining overall app UI                                         |
+| 51  | 29-07-2025 | Worked on UI & performance improvements                                 |
+| 52  | 30-07-2025 | Started working on Dashboard UI                                         |
+| 53  | 31-07-2025 | Finalized Guest User flow for upcoming demo                             |
+| 54  | 01-08-2025 | Completed app preparation for demo                                      |
+| 55  | 02-08-2025 | Off Day                                                                |
+| 56  | 03-08-2025 | Off Day                                                                |
+
+🔗 [View Week 08 Logs](./week-08/)
+</details>
+
+<details>
+<summary><strong>✅ Week 09</strong> (04 Aug – 10 Aug)</summary>
+
+| Day | Date       | Summary                                                                 |
+|-----|------------|-------------------------------------------------------------------------|
+| 57  | 04-08-2025 | Started working on Product Owner Subscription page                      |
+| 58  | 05-08-2025 | Built UI for Product Owner Subscription page                            |
+| 59  | 06-08-2025 | Developed backend logic for Product Owner page                          |
+| 60  | 07-08-2025 | Almost completed Product Owner Subscription page                        |
+| 61  | 08-08-2025 | Finalized Product Owner page for demo                                   |
+| 62  | 09-08-2025 | Off Day                                                                |
+| 63  | 10-08-2025 | Off Day                                                                |
+
+🔗 [View Week 09 Logs](./week-09/)
+</details>
+
+<details>
+<summary><strong>✅ Week 10</strong> (11 Aug – 17 Aug)</summary>
+
+| Day | Date       | Summary                                                                 |
+|-----|------------|-------------------------------------------------------------------------|
+| 64  | 11-08-2025 | Started adding pricing display to org dashboards                        |
+| 65  | 12-08-2025 | Completed Product Owner Subscription page                               |
+| 66  | 13-08-2025 | Tested Product Owner page and prepped for demo                          |
+| 67  | 14-08-2025 | Worked on performance enhancements                                      |
+| 68  | 15-08-2025 | Independence Day Holiday                                                |
+| 69  | 16-08-2025 | Off Day                                                                |
+| 70  | 17-08-2025 | Off Day                                                                |
+
+🔗 [View Week 10 Logs](./week-10/)
+</details>
+
+<details>
+<summary><strong>✅ Week 11</strong> (18 Aug – 24 Aug)</summary>
+
+| Day | Date       | Summary                                                                 |
+|-----|------------|-------------------------------------------------------------------------|
+| 71  | 18-08-2025 | Worked on UI enhancements                                               |
+| 72  | 19-08-2025 | Added filter to fetch Twilio usage                                      |
+| 73  | 20-08-2025 | Completed fetching overall Twilio costing                               |
+| 74  | 21-08-2025 | Performed UI enhancements on Upreach                                    |
+| 75  | 22-08-2025 | Finalized app for demo                                                  |
+| 76  | 23-08-2025 | Off Day                                                                |
+| 77  | 24-08-2025 | Off Day                                                                |
+
+🔗 [View Week 11 Logs](./week-11/)
+</details>
+
 ---
 
 ## 🧰 Tech Stack & Tools
