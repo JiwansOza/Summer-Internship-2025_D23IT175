@@ -24,5 +24,5 @@
 - StackOverflow for clarifying role-based access handling  
 
 ## 💬 Notes / Observations  
-- The backend for the **Product Owner Page** is in progress ⚙️  
+- The backend for the **Product Owner Page** is in progress   
 - Next focus: **linking backend APIs with frontend UI** for smooth functionality  
